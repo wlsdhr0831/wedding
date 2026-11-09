@@ -1,5 +1,7 @@
 # wedding
 
-https://wlsdhr0831.github.io/wedding/ 진입 시 https://wlsdhr0831.github.io/silhouette-page/ 로 리다이렉트합니다.
+모바일 청첩장 페이지. GitHub Pages 로 배포됩니다.
 
-- 진입 파일: `index.html` (meta refresh + JS 리다이렉트)
+- 배포 주소: https://wlsdhr0831.github.io/wedding/
+- 진입 파일: `index.html`
+- 공유 미리보기 이미지: `og.jpg` (1200×630 권장, 추가 필요)
